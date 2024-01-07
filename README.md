@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evertjanMlbrgn
 - 👀 I’m interested in web-development
-- 🌱 I’m currently learning C- compiling
+- 🌱 I’m currently working on web components
 - 💞️ I’m looking to collaborate on open source software
 - 📫 How to reach me evertjan@mlbrgn.nl
 
